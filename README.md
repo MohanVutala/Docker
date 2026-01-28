@@ -1,3 +1,14 @@
+Common Dockerfile instructions (quick cheat sheet)
+Instruction	Purpose
+FROM	Base image
+RUN	Execute commands during build
+CMD	Default command when container runs
+ENTRYPOINT	Fixed executable
+COPY	Copy files
+WORKDIR	Set working directory
+
+
+
 # Repo to learn Docker with examples. Contributions are most welcome.
 
 ## If you found this repo useful, give it a STAR 🌠
